@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
     "test/*.*"
   ]
 
-  s.add_dependency "cuba", "~> 3.1"
+  s.add_dependency "cuba", "~> 4.0"
   s.add_development_dependency "cutest"
   s.add_dependency "mote", "~> 1.0"
 end
